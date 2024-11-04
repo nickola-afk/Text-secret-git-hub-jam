@@ -35,4 +35,5 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
+    icon=['C:\\Users\\May562\\Documents\\GitHub\\Text secret git jam game1!!!1!11\\Text-secret-git-hub-jam\\img\\txti.ico'],
 )

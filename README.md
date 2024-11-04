@@ -8,4 +8,5 @@
  this is my first Game
 
  -importint111!!!1!!!1
+ .py file is source code
  .exe

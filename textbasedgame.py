@@ -98,12 +98,6 @@ while True:
                         print_slow(f"{item.capitalize()} added to your inventory!")
                     else:
                         print_slow("Sorry, you need a key to get the treasure!")
-                elif item == 'door':
-                    if 'key' in inventory:
-                        inventory.append(item)
-                        print_slow(f"{item.capitalize()} added to your inventory!")
-                    else:
-                        print_slow("Sorry but you need the key")
                 else:
                     inventory.append(item)
                     print_slow(f"{item.capitalize()} added to your inventory!")
