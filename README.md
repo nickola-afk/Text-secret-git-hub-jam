@@ -8,4 +8,5 @@
  this is my first Game
 
  -importint111!!!1!!!1
+ run
  .exe
